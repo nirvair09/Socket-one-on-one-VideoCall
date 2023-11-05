@@ -35,4 +35,4 @@ Provide a link or screenshot of your application in action.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/videoReactWebCalling.git
+   git clone https://github.com/nirvair09/videoCall.git
